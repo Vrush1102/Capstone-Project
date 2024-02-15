@@ -1,5 +1,6 @@
 # Capstone Project
- Retail Sales Data Analysis
+
+## Retail Sales Data Analysis
 
 ## Project Description: - 
 Understanding Customer Buying Behavior in Retail Industry
