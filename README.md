@@ -1,7 +1,7 @@
 # Capstone Project
  Retail Sales Data Analysis
 
-##Project Description: - 
+## Project Description: - 
 Understanding Customer Buying Behavior in Retail Industry
 
 This project delves into retail sales data to uncover key factors influencing customer purchasing decisions. By analyzing features like demographics, income, purchase history, and campaign responses, we aim to:
